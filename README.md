@@ -1,6 +1,6 @@
 ## ❤️ Love Forever – A Heartfelt Digital Expression of Endless Love
 
-I’m so happy to share my special frontend experiment — a heartfelt digital love letter crafted entirely for Ritu and Awdhesh, designed and developed with pure **HTML + CSS + JavaScript**.
+I’m so happy to share my special frontend experiment — a heartfelt digital love letter crafted entirely for *Ritu and Awdhesh*, designed and developed with pure **HTML + CSS + JavaScript**.
 
 This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.
 Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold.
