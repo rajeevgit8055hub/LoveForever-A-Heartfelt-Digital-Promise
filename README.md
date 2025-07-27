@@ -146,14 +146,14 @@ It works as a portfolio piece, digital greeting card, or just a practice for pur
 
 ---
 
-## 📸 Extra Project Preview
-
 ## 📸 Project Preview
 
 🖼️ **Love Forever – Digital Love Letter**  
 (*Visual: Radial Gradient Sky, Glowing Moon, Twinkling Stars, Falling Star, Floating Hearts, Heartbeat Title, Love Letter Box*)
 
 ![A Heartfelt Digital Love Expression](Ritu💕Awdhesh.png)
+
+## 📸 Extra Project Preview
 
 🖼️ **Alternate Visual – Love Forever**  
 (*A different angle showing the same dreamy love letter*)
