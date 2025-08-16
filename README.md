@@ -158,7 +158,7 @@ It works as a portfolio piece, digital greeting card, or just a practice for pur
 🖼️ **Alternate Visual – Love Forever**  
 (*A different angle showing the same dreamy love letter*)
 
-![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh1.png)
+![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh.jpg)
 
 ---
 
