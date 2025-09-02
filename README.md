@@ -2,22 +2,39 @@
 
 I’m so happy to share my special frontend experiment — a heartfelt digital love letter crafted entirely for *Ritu and Awdhesh*, designed and developed with pure **HTML + CSS + JavaScript**.
 
-This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.
-Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold.
-Together, they create a living promise that true love — the love of Ritu and Awdhesh — shines, drifts, rises, and stays forever.
+---
+
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#about-the-project">🌙 About the Project</a>  
+- <a href="#digital-letter">✨ What Makes This Digital Letter Unique</a>  
+- <a href="#creative-elements">🌟 Main Creative Elements</a>  
+- <a href="#key-highlights">🔧 Key Highlights</a>  
+- <a href="#skills-demonstrated">🧠 Skills Demonstrated</a>  
+- <a href="#use-cases">📂 Use Cases</a>  
+- <a href="#conclusion">💖 Conclusion</a>  
+- <a href="#contact">📬 Connect with Me</a>    
+- <a href="#project-preview">📸 Project Preview</a>  
+
+---
+
+## <span id="project-overview">✅📌 Project Overview</span> 
+
+This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold.Together, they create a living promise that true love — the love of Ritu and Awdhesh — shines, drifts, rises, and stays forever.
 
 This isn’t just code — it’s a gentle love story written under a dreamy night sky with twinkling stars, floating hearts, a glowing moon, and a falling star — a soft reminder that true love is endless, just like the sky that always holds them close.
 
 ---
 
-## 🌙 About the Project
+## <span id="about-the-project">🌙 About the Project</span> 
 
 This project is a creative experiment to turn simple frontend code into a poetic expression of endless love.  
 It blends a peaceful night sky with a glowing moon, drifting hearts, and a soft love letter — everything coded by hand to feel personal and warm.
 
 ---
 
-## ✨ What Makes This Digital Letter Unique
+## <span id="digital-letter">✨ What Makes This Digital Letter Unique</span> 
 
 Every element in this project is crafted to convey emotion and softness.  
 From a flickering star to a floating pink heart, each piece says: true love lives in tiny details.
@@ -34,49 +51,49 @@ From a flickering star to a floating pink heart, each piece says: true love live
 
 ---
 
-## 🌟 Main Creative Elements – In Detail
+## <span id="creative-elements">🌟 Main Creative Elements</span> 
 
 ---
 
-### 1️⃣ Background – Night Sky with Radial Gradient
+## 1️⃣ Background – Night Sky with Radial Gradient
 
 The deep, blended gradient background sets the mood like a peaceful night sky.  
 It reminds us that true love is endless, calm, and always present.
 
 ---
 
-### 2️⃣ Moon – Peace & Presence
+## 2️⃣ Moon – Peace & Presence
 
 The glowing moon, softly shining in the top corner, stands for steady presence — a gentle promise that real love is always there, no matter how far.
 
 ---
 
-### 3️⃣ Twinkling Stars – Hopes & Memories
+## 3️⃣ Twinkling Stars – Hopes & Memories
 
 Tiny flickering stars scatter across the sky to capture memories, secret wishes, and silent promises that light up love’s journey.
 
 ---
 
-### 4️⃣ Falling Star – A Dream Moving
+## 4️⃣ Falling Star – A Dream Moving
 
 The falling star drifts again and again, like a wish that keeps travelling — a symbol that dreams in true love never fall away, they keep moving.
 
 ---
 
-### 5️⃣ Floating Hearts – Endless Affection
+## 5️⃣ Floating Hearts – Endless Affection
 
 The hearts floating upward show that real affection always rises.  
 Each heart, coded with pure CSS, drifts softly to remind us that love never stays still — it keeps growing.
 
 ---
 
-### 6️⃣ Heartbeat Text – Words that Breathe
+## 6️⃣ Heartbeat Text – Words that Breathe
 
 The heartbeat animation on the title ‘Love Forever…’ makes the words come alive — just like a heart that beats for someone special every moment.
 
 ---
 
-### 7️⃣ Love Letter Box – Words of Emotion
+## 7️⃣ Love Letter Box – Words of Emotion
 
 In the center, a soft pink box holds handwritten lines.  
 These lines are simple, raw expressions of love that feel warm and personal.
@@ -89,20 +106,20 @@ These lines are simple, raw expressions of love that feel warm and personal.
 
 ---
 
-### 8️⃣ Floating Message – A Promise Rising
+## 8️⃣ Floating Message – A Promise Rising
 
 At the bottom, a gentle floating message keeps rising.  
 It’s like a promise that true love lifts higher than any words.
 
 ---
 
-### 9️⃣ Bottom Strip – Ties It Together
+## 9️⃣ Bottom Strip – Ties It Together
 
 The thin strip at the bottom grounds the entire scene, like a final line that gently connects every floating feeling.
 
 ---
 
-## 🔧 Key Highlights
+## <span id="key-highlights">🔧 Key Highlights</span> 
 
 This project shows how much emotion you can weave into simple frontend code.  
 Each tiny effect is done with pure CSS animations and a bit of JavaScript — no big frameworks, only thoughtful details.
@@ -119,7 +136,7 @@ Each tiny effect is done with pure CSS animations and a bit of JavaScript — no
 
 ---
 
-## 🧠 Skills Demonstrated
+## <span id="skills-demonstrated">🧠 Skills Demonstrated</span> 
 
 This small project proves how simple code can tell deep stories.  
 It covers motion, layering, positioning, and creative animation — all done from scratch.
@@ -133,7 +150,7 @@ It covers motion, layering, positioning, and creative animation — all done fro
 
 ---
 
-## 📂 Use Cases
+## <span id="use-cases">📂 Use Cases</span> 
 
 You can use this concept in your own creative web projects too.  
 It works as a portfolio piece, digital greeting card, or just a practice for pure frontend magic.
@@ -146,25 +163,34 @@ It works as a portfolio piece, digital greeting card, or just a practice for pur
 
 ---
 
-## 📸 Project Preview
+## <span id="conclusion">💖 Conclusion</span> 
+
+This tiny page is a reminder that sometimes simple code can say what plain words cannot.  
+From the endless sky to the drifting hearts — it softly promises: true love stays forever.
+
+---
+
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-preview">📸 Project Preview</span> 
 
 🖼️ **Love Forever – Digital Love Letter**  
 (*Visual: Radial Gradient Sky, Glowing Moon, Twinkling Stars, Falling Star, Floating Hearts, Heartbeat Title, Love Letter Box*)
 
 ![A Heartfelt Digital Love Expression](Ritu💕Awdhesh.png)
 
-## 📸 Extra Project Preview
-
 🖼️ **Alternate Visual – Love Forever**  
 (*A different angle showing the same dreamy love letter*)
 
 ![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh.jpg)
-
----
-
-## 💖 Conclusion
-
-This tiny page is a reminder that sometimes simple code can say what plain words cannot.  
-From the endless sky to the drifting hearts — it softly promises: true love stays forever.
 
 ---
