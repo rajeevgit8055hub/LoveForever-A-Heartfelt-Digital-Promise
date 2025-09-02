@@ -19,7 +19,7 @@ I’m so happy to share my special frontend experiment — a heartfelt digital l
 
 ---
 
-## <span id="project-overview">✅📌 Project Overview</span> 
+## <span id="project-overview">📌 Project Overview</span> 
 
 This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold.Together, they create a living promise that true love — the love of Ritu and Awdhesh — shines, drifts, rises, and stays forever.
 
