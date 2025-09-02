@@ -53,7 +53,7 @@ From a flickering star to a floating pink heart, each piece says: true love live
 
 ## <span id="creative-elements">🌟 Main Creative Elements</span> 
 
-## 1️⃣ Background – Night Sky with Radial Gradient
+1️⃣ Background – Night Sky with Radial Gradient
 
 The deep, blended gradient background sets the mood like a peaceful night sky.  
 It reminds us that true love is endless, calm, and always present.
