@@ -19,7 +19,7 @@ I’m so happy to share my special frontend experiment — a heartfelt digital l
 
 ---
 
-## <span id="project-overview">✅📌 Project Overview</span> 
+## <span id="project-overview">📌 Project Overview</span> 
 
 This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold.Together, they create a living promise that true love — the love of Ritu and Awdhesh — shines, drifts, rises, and stays forever.
 
@@ -53,47 +53,33 @@ From a flickering star to a floating pink heart, each piece says: true love live
 
 ## <span id="creative-elements">🌟 Main Creative Elements</span> 
 
----
-
-## 1️⃣ Background – Night Sky with Radial Gradient
+1️⃣ Background – Night Sky with Radial Gradient
 
 The deep, blended gradient background sets the mood like a peaceful night sky.  
 It reminds us that true love is endless, calm, and always present.
 
----
-
-## 2️⃣ Moon – Peace & Presence
+2️⃣ Moon – Peace & Presence
 
 The glowing moon, softly shining in the top corner, stands for steady presence — a gentle promise that real love is always there, no matter how far.
 
----
-
-## 3️⃣ Twinkling Stars – Hopes & Memories
+3️⃣ Twinkling Stars – Hopes & Memories
 
 Tiny flickering stars scatter across the sky to capture memories, secret wishes, and silent promises that light up love’s journey.
 
----
-
-## 4️⃣ Falling Star – A Dream Moving
+4️⃣ Falling Star – A Dream Moving
 
 The falling star drifts again and again, like a wish that keeps travelling — a symbol that dreams in true love never fall away, they keep moving.
 
----
-
-## 5️⃣ Floating Hearts – Endless Affection
+5️⃣ Floating Hearts – Endless Affection
 
 The hearts floating upward show that real affection always rises.  
 Each heart, coded with pure CSS, drifts softly to remind us that love never stays still — it keeps growing.
 
----
-
-## 6️⃣ Heartbeat Text – Words that Breathe
+6️⃣ Heartbeat Text – Words that Breathe
 
 The heartbeat animation on the title ‘Love Forever…’ makes the words come alive — just like a heart that beats for someone special every moment.
 
----
-
-## 7️⃣ Love Letter Box – Words of Emotion
+7️⃣ Love Letter Box – Words of Emotion
 
 In the center, a soft pink box holds handwritten lines.  
 These lines are simple, raw expressions of love that feel warm and personal.
@@ -104,16 +90,12 @@ These lines are simple, raw expressions of love that feel warm and personal.
 > “Your presence means everything to me, my lovely Ritu…”  
 > – Awadhesh
 
----
-
-## 8️⃣ Floating Message – A Promise Rising
+8️⃣ Floating Message – A Promise Rising
 
 At the bottom, a gentle floating message keeps rising.  
 It’s like a promise that true love lifts higher than any words.
 
----
-
-## 9️⃣ Bottom Strip – Ties It Together
+9️⃣ Bottom Strip – Ties It Together
 
 The thin strip at the bottom grounds the entire scene, like a final line that gently connects every floating feeling.
 
