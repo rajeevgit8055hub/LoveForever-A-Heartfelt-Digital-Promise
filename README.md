@@ -173,6 +173,7 @@ From the endless sky to the drifting hearts — it softly promises: true love st
 🖼️ **Alternate Visual – Love Forever**  
 (*A different angle showing the same dreamy love letter*)
 
+![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh1.png)
 ![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh.jpg)
 
 ---
