@@ -166,17 +166,17 @@ From the endless sky to the drifting hearts — it softly promises: true love st
 ## <span id="project-preview">📸 Project Preview</span> 
 
 🖼️ **Love Forever – Digital Love Letter**  
-(*Visual: Radial Gradient Sky, Glowing Moon, Twinkling Stars, Falling Star, Floating Hearts, Heartbeat Title, Love Letter Box*)
+*Radial Gradient Sky, Glowing Moon, Twinkling Stars, Falling Star, Floating Hearts, Heartbeat Title, Love Letter Box*
 
 ![A Heartfelt Digital Love Expression](Ritu💕Awdhesh.png)
 
-🖼️ Dynamic Visual – Love in Motion
-(Animated Heartbeat, Glowing Aura, Floating Sparks, and Soft Pulse Effect)
+🖼️ **Dynamic Visual – Love in Motion**
+*Animated Heartbeat, Glowing Aura, Floating Sparks, and Soft Pulse Effect*
 
 ![A Heartfelt Digital Love Expression – Love in Motion](Heart.gif)
 
 🖼️ **Alternate Visual – Love Forever**  
-(*A different angle showing the same dreamy love letter*)
+*A different angle showing the same dreamy love letter*
 
 ![A Heartfelt Digital Love Expression – Alt View](Ritu💕Awdhesh1.png)
 
