@@ -170,6 +170,11 @@ From the endless sky to the drifting hearts — it softly promises: true love st
 
 ![A Heartfelt Digital Love Expression](Ritu💕Awdhesh.png)
 
+🩷 Dynamic Visual – Love in Motion
+(Visual: Animated Heartbeat, Glowing Aura, Floating Sparks, and Soft Pulse Effect)
+
+![A Heartfelt Digital Love Expression – Love in Motion](Heart.gif)
+
 🖼️ **Alternate Visual – Love Forever**  
 (*A different angle showing the same dreamy love letter*)
 
