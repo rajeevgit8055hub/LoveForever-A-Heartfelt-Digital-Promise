@@ -21,7 +21,7 @@ I’m so happy to share my special frontend experiment — a heartfelt digital l
 
 ## <span id="project-overview">📌 Project Overview</span> 
 
-This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript.Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold. Together, they create a living promise that true love — the love of *Ritu and Awdhesh* — shines, drifts, rises, and stays forever.
+This heartfelt creation softly weaves endless love into pure lines of HTML, gentle layers of CSS, and delicate touches of JavaScript. Each tiny animation — from twinkling stars to floating hearts — whispers feelings that words alone could never hold. Together, they create a living promise that true love — the love of *Ritu and Awdhesh* — shines, drifts, rises, and stays forever.
 
 This isn’t just code — it’s a gentle love story written under a dreamy night sky with twinkling stars, floating hearts, a glowing moon, and a falling star — a soft reminder that true love is endless, just like the sky that always holds them close.
 
